@@ -17,7 +17,7 @@ MEMS microphone : https://www.adafruit.com/product/3421
 
 **This is project is done on Platformio which is available here**  :  https://platformio.org/
 
-**Or we can use VScode extension available in the addons where the following requirements are to be satisfied **
+**Or we can use VScode extension available in the addons where the following requirements are to be satisfied**
 
 *Board used is Espressif ESP32 Dev Module : https://docs.platformio.org/en/latest/boards/espressif32/esp32dev.html?utm_source=platformio&utm_medium=piohome*
 
