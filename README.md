@@ -2,9 +2,9 @@
 
 ## About the project
 
-*
-This project so as to livestream audio data from ESP32 using MEMS microphones 
-*
+
+*This project so as to livestream audio data from ESP32 using MEMS microphones recorded using VB cable as our virtual audio driver on audacity*
+
 
 ## Parts Used are 
 
