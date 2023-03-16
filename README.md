@@ -27,7 +27,7 @@ MEMS microphone : https://www.adafruit.com/product/3421
 
 
 ## Requirements to get the project working
-*
+
 Install VB cable for windows : https://support.restream.io/en/articles/4358320-vb-audio-cable-setup
 
 Download Audacity : https://www.audacityteam.org/download/
@@ -42,7 +42,7 @@ Connection to MEMS is as follows
 
 ## Steps to get the project working
 
-*
+
 1) Import the code to platformio 
 
 2) Compile the code and dump the code to ESP32
@@ -60,7 +60,7 @@ Connection to MEMS is as follows
 8) Open audacity Select VB cable as output
 
 9) Start Record
-*
+
 
 
 ## Note:
