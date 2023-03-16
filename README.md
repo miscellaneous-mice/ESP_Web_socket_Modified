@@ -8,11 +8,11 @@ This project so as to livestream audio data from ESP32 using MEMS microphones
 
 ## Parts Used are 
 
-```
+-------
 ESP32 board used : https://www.adafruit.com/product/3405
 
 MEMS microphone : https://www.adafruit.com/product/3421
-```
+
 
 
 **This is project is done on Platformio which is available here**  :  https://platformio.org/
