@@ -8,8 +8,6 @@
 
 ## Parts Used are 
 
--------
-
 ESP32 board used : https://www.adafruit.com/product/3405
 
 MEMS microphone : https://www.adafruit.com/product/3421
