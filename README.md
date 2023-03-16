@@ -32,7 +32,7 @@ Install VB cable for windows : https://support.restream.io/en/articles/4358320-v
 
 Download Audacity : https://www.audacityteam.org/download/
 
-Connection to MEMS is as follows
+Connection to MEMS microphone is as follows
 
 ```
 #define I2S_MIC_SERIAL_CLOCK GPIO_NUM_14
