@@ -57,6 +57,6 @@ Download Audacity : https://www.audacityteam.org/download/
 
 ## Note:
 -	**This is a mono channel recording** 
-- **If the audio appears too much distorted change** ***bool fixSPH0645*** ** to True or false in lib/sampler/src/SamplerMEMS.h line 19**
+- **If the audio appears too much distorted change** ***bool fixSPH0645*** **to True or false in lib/sampler/src/SamplerMEMS.h line 19**
 - **If the library used is : https://github.com/me-no-dev/ESPAsyncWebServer**
 - **For automatically connecting to Wifi library is : https://github.com/Makerfabs/Makerfabs_FAQ/tree/master/Arduino_ESP32/arduino_example/wifi_set_demo**
