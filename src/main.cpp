@@ -20,11 +20,13 @@ void setup()
   {
       Serial.println("Connect WIFI FAULT");
   }
-  while (WiFi.status() != WL_CONNECTED)
-  {
-    delay(500);
-    Serial.print(".");
-  }
+  
+//   while (WiFi.status() != WL_CONNECTED)
+//   {
+//     delay(500);
+//     Serial.print(".");
+//   }
+  
   //disable WiFi sleep mode
   // Serial.printf("Starting WiFi AP = %s", ssid);
   // WiFi.softAP(ssid, password);
